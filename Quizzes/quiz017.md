@@ -13,3 +13,4 @@ print(avaragewordlength(list=["Peru","France","Nepal"]))
 print(avaragewordlength(list=["Computer Science","Art"]))
 print(avaragewordlength(list=["one","two"]))
 ```
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz017test.png)
