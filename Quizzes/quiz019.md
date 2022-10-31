@@ -20,3 +20,5 @@ print(get_letter(msg="Why did I choose CS"))
 print(get_letter(msg="Remember the Figure Caption"))
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz019test.png)
+## B)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz019graphbinary.jpg)
