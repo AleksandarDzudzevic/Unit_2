@@ -1,0 +1,13 @@
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_pic1.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_pic2.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_pic3.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_pic4.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_pic5.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_pic6.png)
+## SOLUTIONS
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_sol1.jpg)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_sol2.jpg)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_sol3.jpg)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_sol4.jpg)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_sol5.jpg)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Task1_sol6.jpg)
