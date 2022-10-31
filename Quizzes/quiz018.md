@@ -38,3 +38,5 @@ print(numberMathces(l=12345,s=123))
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz018test.png)
 ### While loop solution test
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz018test2.png)
+## HL
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz018tablebinary.jpg)
