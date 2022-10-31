@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz018text.png)
 ### Mathematical solution
 ```.py
 def numberMathces(l:int,s:int)->int:
