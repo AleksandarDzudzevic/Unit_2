@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz019text.png)
 ```.py
 def get_letter(msg:str)->str:
     dict={
