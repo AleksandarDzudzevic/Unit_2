@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz021text.png)
 ```.py
 def table()->str:
     '''
@@ -19,3 +20,5 @@ def table()->str:
 print(table())
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz020test.png)
+### Table binary and circut
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/IMG_20221103_221339.jpg)
