@@ -26,4 +26,5 @@ for i in range(1,9):
    board.digital[5].write(int(a))
    time.sleep(1)
 ```
-
+## VIDEO LINK:
+https://drive.google.com/drive/my-drive?hl=ja
