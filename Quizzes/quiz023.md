@@ -20,3 +20,4 @@ plt.ylabel("$y=x^{1/2(m/s)^2}$")
 plt.xlabel("Variable X")
 plt.show()
 ```
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz023test.png)
