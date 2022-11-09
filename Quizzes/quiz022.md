@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz022text.png)
 ```.py
 def produce(n:int,m:int,s:int)->str:
     import random
@@ -10,3 +11,4 @@ def produce(n:int,m:int,s:int)->str:
     return z
 print(produce(n=5,m=3,s=2))
 ```
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz022test.png)
