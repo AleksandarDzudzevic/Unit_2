@@ -27,4 +27,4 @@ for i in range(1,9):
    time.sleep(1)
 ```
 ## VIDEO LINK:
-https://drive.google.com/drive/my-drive?hl=ja
+https://drive.google.com/file/d/1bObtO1tIcPXlbysXwr-98ypaShrhBinA/view?usp=sharing
