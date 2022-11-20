@@ -22,4 +22,4 @@ plt.show()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz024test.png)
 ### Part b) Circut
-![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz022table.jpg)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz024circut.jpg)
