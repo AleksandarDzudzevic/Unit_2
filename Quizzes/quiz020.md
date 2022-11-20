@@ -1,4 +1,4 @@
-![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz021text.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz020text.png)
 ```.py
 def table()->str:
     '''
