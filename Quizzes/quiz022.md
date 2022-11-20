@@ -12,3 +12,5 @@ def produce(n:int,m:int,s:int)->str:
 print(produce(n=5,m=3,s=2))
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz022test.png)
+### Part b) table
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz022table.jpg)
