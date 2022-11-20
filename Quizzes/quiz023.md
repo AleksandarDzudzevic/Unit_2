@@ -22,3 +22,5 @@ plt.xlabel("Variable X")
 plt.show()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz023test.png)
+### Part b) Table
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz022table.jpg)
