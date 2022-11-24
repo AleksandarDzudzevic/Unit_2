@@ -26,3 +26,5 @@ print(table())
 
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/Quiz021test.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz021partb.jpg)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz021partbtest.png)
