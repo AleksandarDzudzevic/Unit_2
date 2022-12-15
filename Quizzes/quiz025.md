@@ -1,4 +1,4 @@
-
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quizz025text.png)
 ```.py
 def produce(n:int,m:int,s:int):
     import random
