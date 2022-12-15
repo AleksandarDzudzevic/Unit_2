@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz026text.png)
 ```.py
 import numpy as np
 x_model=[]
