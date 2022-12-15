@@ -32,3 +32,4 @@ plt.fill_between(time_samples, sensorC, sensorB, alpha=.5, color="#009085")
 plt.errorbar(time_samples, mean, stad, fmt='o', color='#900726')
 plt.show()
 ```
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz027test.png)
