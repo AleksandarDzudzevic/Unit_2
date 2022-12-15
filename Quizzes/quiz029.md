@@ -1,3 +1,4 @@
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz029text.png)
 ```.py
 def count_letters(lexicon:dict,msg:str)->str:
     for i in range(len(msg)):
