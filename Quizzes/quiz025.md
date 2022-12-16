@@ -21,3 +21,4 @@ plt.xlabel("Variable X")
 plt.show()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz025test.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz025b.jpg)
