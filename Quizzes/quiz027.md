@@ -33,3 +33,4 @@ plt.errorbar(time_samples, mean, stad, fmt='o', color='#900726')
 plt.show()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz027test.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz027b.jpg)
