@@ -20,3 +20,4 @@ plt.plot(x_model,y_model,color="green")
 plt.show()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz026test.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz026b.jpg)
