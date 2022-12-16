@@ -13,3 +13,4 @@ case2=count_letters(vowels,"testing number two")
 print(case2)
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz029test.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz029b.jpg)
