@@ -9,3 +9,4 @@ plt.title(data['title'])
 plt.show()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz028test.png)
+![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz028b.jpg)
