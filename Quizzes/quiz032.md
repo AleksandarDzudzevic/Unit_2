@@ -43,3 +43,9 @@ plt.plot(x_per_window,diff,color="green")
 plt.show()
 ```
 ![](https://github.com/AleksandarDzudzevic/Unit_2/blob/main/quiz032test.png)
+
+## B) What re three main opeartors used in boolean logic
+Those are:
+#### AND 
+#### OR
+#### NOT
